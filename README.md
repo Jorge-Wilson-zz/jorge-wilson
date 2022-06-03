@@ -1,8 +1,8 @@
 ## Olá! Eu Sou o Jorge Wilson
 
 <div>
-  <a href="https://github.com/JorgeWilson-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JorgeWilson-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Jorge-Wilson">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jorge-Wilson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeWilson-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
@@ -17,7 +17,7 @@
   
  ##
   
-  ![Snake animation](https://github.com/JorgeWilson-dev/JorgeWilson-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JorgeWilson-dev/Jorge-Wilson/blob/output/github-contribution-grid-snake.svg)
   
   
 </div>
