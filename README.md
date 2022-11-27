@@ -1,4 +1,6 @@
 ## Olá! Eu Sou o Jorge Wilson
+My Discord Server: https://discord.gg/2NRDz6UhGW
+My Tebex Store: https://jwilsondev.tebex.io/
 
 <div>
   <a href="https://github.com/Jorge-Wilson">
